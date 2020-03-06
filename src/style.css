@@ -1,0 +1,46 @@
+.navbar {
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+.content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #ccccff;
+    padding: 20px;
+    width: 100%;
+}
+
+#display{
+    width: 100%;
+  background-color: #99ccff;
+}
+
+.content h4 {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: #6600ff;
+}
+
+#slider{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+.content button {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: black;
+  background-color: #99ccff;
+  border-radius: 8px;
+}
+
+.previous_passwords{
+    margin-bottom: 20px;
+  color: #669933;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
